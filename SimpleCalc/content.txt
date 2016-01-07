@@ -1,0 +1,6 @@
+!path C:/Users/r.balaji.bhingole/Downloads/simpleCalc-java.class file/java_vnvi9Y
+!|SimpleCalc|
+|fv|sv|diff?|
+|4 |2|2|
+|10|5|5|
+|10|10|8|

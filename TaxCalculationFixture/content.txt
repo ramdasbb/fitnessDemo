@@ -1,0 +1,8 @@
+!path C:/Users/r.balaji.bhingole/Downloads/Prateek
+!|TaxCalculationFixture|
+|taxableIncome|tax?|
+|250000|0.0|
+|500000|50000.0|
+|1000000|20000.0|
+
+
