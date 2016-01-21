@@ -1,0 +1,10 @@
+!define TEST_SYSTEM {slim}
+!path C:\Users\r.balaji.bhingole\scala-workspace\DemoScalaProject\bin
+
+!| ScalaCalculator |
+|a|b|add?|
+|2|5|7|
+|5|10|12|
+|10|50|82|
+
+
