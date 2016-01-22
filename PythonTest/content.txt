@@ -1,0 +1,8 @@
+!define COMMAND_PATTERN {python "%m" %p}
+
+!define TEST_RUNNER {C:\Users\r.balaji.bhingole\Downloads\tools-softwares\PyFIT-0.8a1\PyFIT-0.8a1\fit\FitServer.py}
+
+|Division|
+|numerator|denominator|quotient?|
+|10|5|2|
+|10|2|5.001|

@@ -1,7 +1,7 @@
 !define TEST_SYSTEM {slim}
 !path C:/Users/r.balaji.bhingole/Downloads/JavaFiles
 !|Calculator|
-|a|b|add?|
-|2|5|7|
-|5|10|12|
-|10|50|82|
+|a|b|add?|sub?|mul?|div?|
+|15|5|20|10|75|3|
+|10|5|15|5|50|2|
+|80|50|82|20|400|1|
